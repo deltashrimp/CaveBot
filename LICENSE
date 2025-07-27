@@ -1,29 +1,29 @@
-ЛИЦЕНЗИЯ НА НЕКОММЕРЧЕСКОЕ ИСПОЛЬЗОВАНИЕ (ONCL)
+NON-COMMERCIAL USE LICENSE (ONCL)
 
-Версия 1.1 — 2025
+Version 1.1 — 2025
 
-Авторские права © deltashrimp
+Copyright © deltashrimp
 
-Настоящая лицензия применяется ко всему содержимому данного репозитория GitHub, включая исходный код, ресурсы, документацию и любые другие файлы.
+This license applies to all content in this GitHub repository, including source code, resources, documentation, and any other files.
 
-Разрешается использовать, копировать, изменять и распространять материалы этого репозитория только в некоммерческих целях при соблюдении следующих условий:
+You may use, copy, modify, and distribute the materials in this repository for non-commercial purposes only, subject to the following conditions:
 
-    Некоммерческое использование
-    Любое коммерческое использование запрещено. Это включает, но не ограничивается: продажей, интеграцией в коммерческие продукты или услуги, размещением на платных платформах, предоставлением SaaS, технической поддержкой за плату и т.п.
+Non-commercial use
+Any commercial use is prohibited. This includes, but is not limited to: sale, integration into commercial products or services, placement on paid platforms, provision of SaaS, technical support for a fee, etc.
 
-    Разрешение на модификации и форки
-    Разрешается форкать репозиторий, создавать производные проекты и изменять код при условии соблюдения данной лицензии.
+Permission to modify and fork
+You are permitted to fork the repository, create derivative projects, and modify the code, provided that you comply with this license.
 
-    Указание авторства
-    Во всех оригинальных и производных проектах должно сохраняться указание на автора. Необходимо явно упомянуть оригинальный репозиторий и имя (или псевдоним) автора в файле README или эквивалентной документации.
+    Attribution
+All original and derivative projects must retain attribution to the author. The original repository and the author's name (or pseudonym) must be explicitly mentioned in the README file or equivalent documentation.
 
-    Запрет на присвоение
-    Категорически запрещается заявлять авторство над проектом или производной работой при несущественных изменениях (например, изменение интерфейса, рефакторинг, переименование и прочее подобное).
+    Prohibition of appropriation
+It is strictly prohibited to claim authorship of a project or derivative work with insignificant changes (e.g., interface changes, refactoring, renaming, and the like).
 
-    Открытый доступ
-    Все производные проекты, выложенные в открытом доступе, должны содержать исходный код и распространяться по условиям данной лицензии.
+    Open Access
+All derivative projects made publicly available must include the source code and be distributed under the terms of this license.
 
-    Отказ от гарантий
-    Данный проект предоставляется "как есть", без каких-либо гарантий. Автор не несёт ответственности за любой ущерб, прямой или косвенный, вызванный использованием данного материала.
+    Disclaimer
+This project is provided “as is” without any warranty. The author is not liable for any damage, direct or indirect, caused by the use of this material.
 
-Для получения разрешения на коммерческое использование — обратитесь к автору.
+For permission to use this material commercially, please contact the author.
